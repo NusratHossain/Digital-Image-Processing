@@ -1,0 +1,1 @@
+Change the background of Victim.png to Back.jpg. Sample output given as Output.jpg 
